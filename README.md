@@ -26,5 +26,7 @@
 
 # 🌈 SNS
 <a href="https://www.instagram.com/dokang_0144/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100013019054609" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013019054609" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a><br><br><br><br><br>
 </div>
+
+![나의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=dokang0144&show_icons=true&theme=merko&hide=contribs,issues)
