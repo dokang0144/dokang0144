@@ -25,6 +25,7 @@
 
 
 # 🌈 SNS
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/dokang_0144/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+
 </div>
