@@ -30,3 +30,4 @@
 </div>
 
 ![나의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=dokang0144&show_icons=true&theme=merko&hide=contribs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokang0144&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
