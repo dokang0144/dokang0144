@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokang0144&layout=compact&hide=ASP.NET,Ruby,CSS)<br><br>
+
 
 
 # ⚒️ Tools
